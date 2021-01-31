@@ -1,1 +1,3 @@
 # Time-Series-Prophet
+
+This source code is an implementation of time series using Prophet from Facebook, which contains step by step tutorial codes on making a model for forecasting that you can freely use for your needs. The composition of training and test dataset might be different from the usual composition in which training dataset usually has a bigger portion, but I try to make a different approach after reading this article https://towardsdatascience.com/why-training-set-should-always-be-smaller-than-test-set-61f087ed203c#:~:text=The%20reason%20why%20training%20dataset,the%20better%20the%20model%20learns. But if you disagree with the composition, you can change it as you need. This code is only for experimental needs, let us enjoy playing with data! :)
